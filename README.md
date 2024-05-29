@@ -5,11 +5,11 @@ Welcome to the Pokémon Single Page Application (SPA) project! This project is a
 Overview
 This SPA allows users to:
 
-Browse a list of Pokémon
-View detailed information about each Pokémon
-Search for specific Pokémon by name
-Navigate seamlessly between different pages using client-side routing
-Enjoy a visually appealing and responsive user interface
+- Browse a list of Pokémon
+- View detailed information about each Pokémon
+- Search for specific Pokémon by name
+- Navigate seamlessly between different pages using client-side routing
+- Enjoy a visually appealing and responsive user interface
 
 
 <h2>Features</h2>
