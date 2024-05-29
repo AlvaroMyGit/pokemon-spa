@@ -28,7 +28,9 @@ Responsive Design: Enjoy a consistent user experience across different devices a
 <h2>Technologies Used</h2>
 
 JavaScript: The project is primarily built using JavaScript for frontend logic and interaction.
+
 HTML/CSS: HTML and CSS are used for structuring the layout and styling the user interface.
+
 jQuery: jQuery is utilized for DOM manipulation and handling AJAX requests.
 
 
